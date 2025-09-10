@@ -17,10 +17,15 @@ Além disso, demonstra o uso de equals() e contains() para verificar igualdade d
 📊 Exemplo de saída: 
 
 Países do G20 ordenados por PIB (decrescente) e população (crescente):
+
 Estados Unidos (PIB: 22940.0 bilhões, População: 331002651)
+
 China (PIB: 17730.0 bilhões, População: 1439323776)
+
 Japão (PIB: 4975.0 bilhões, População: 126476461)
+
 Alemanha (PIB: 4260.0 bilhões, População: 83783942)
+
 Brasil (PIB: 1830.0 bilhões, População: 212559417)
 
 Comparação de igualdade:
