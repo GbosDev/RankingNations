@@ -15,6 +15,7 @@ Além disso, demonstra o uso de equals() e contains() para verificar igualdade d
 - Programação Orientada a Objetos (POO) 
 
 📊 Exemplo de saída: 
+
 Países do G20 ordenados por PIB (decrescente) e população (crescente):
 Estados Unidos (PIB: 22940.0 bilhões, População: 331002651)
 China (PIB: 17730.0 bilhões, População: 1439323776)
